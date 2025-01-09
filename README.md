@@ -139,9 +139,11 @@ Consiste en:
 
 **2. Estructura del Proyecto**
 
+ - Estructura de carpetas y archivos.
+
 **3. Cómo Ejecutar el Proyecto**
 
-   Prerrequisitos
+ - Prerrequisitos
 
 **4. Pasos para Configuración**
 
@@ -231,3 +233,5 @@ Content Cell  | Content Cell | Content Cell
 ## 7. Posibles Mejoras
 ## 8. Soporte
 ## 9. Autor
+
+[Nadja Villarroel](https://github.com/anemonadja "Nadja Villarroel title")
