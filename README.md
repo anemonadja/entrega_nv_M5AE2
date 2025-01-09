@@ -125,7 +125,7 @@ Si tienes preguntas o encuentras algún problema, por favor abre un issue en est
 
 # Sesión Interactivas de Preguntas y Respuestas
 
-![Logo](src/assets/imgs/portada_readme_typescript.jpg)
+![Logo](src/assets/imgs/portada_readme_typescript2.jpg)
 
 Este proyecto es la evaluación **Introducción a TypeScript en ReactJS**, sesión Interactiva de Preguntas y Respuestas. 
 Consiste en:
@@ -176,15 +176,6 @@ mejora la experiencia del desarrollador, y facilita el cambio asertivo de valore
  - **¿Qué es el sistema de tipos en TypeScript y cómo ayuda a evitar errores en tiempo de desarrollo?**
     - Los tipos son una forma de restringir qué valores puede tomar una variable. Esto incluye tipos primitivos como string, number, boolean, así como tipos personalizados definidos por el desarrollador.
 
-2. **Consumo de API**:
-
-   - Simula una llamada a una API con respuestas aleatorias de éxito o error.
-   - Consume datos reales de la API de [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts) para visualización.
-
-3. **Notificaciones**:
-   - Muestra mensajes de éxito o error al usuario dependiendo del resultado de la solicitud.
-   - Incluye estilos personalizados para distinguir entre notificaciones de éxito y error.
-
 ### 2. **Ejercicio Práctico: Definiendo Tipos e Inferencia.**
 
 ### 3. **Definición de Interfaces y Clases en TypeScript.**
@@ -192,8 +183,6 @@ mejora la experiencia del desarrollador, y facilita el cambio asertivo de valore
 ### 4. **TypeScript y ReactJS: Implementación Básica en un Componente.**
 
 ### 5. **Ventajas de TypeScript en el Desarrollo con ReactJS.**
-
-
 
 ## 2. Estructura del Proyecto
 
