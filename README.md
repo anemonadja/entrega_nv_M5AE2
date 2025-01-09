@@ -127,7 +127,7 @@ Si tienes preguntas o encuentras algún problema, por favor abre un issue en est
 
 ![Logo](src/assets/imgs/portada_readme_typescript2.jpg)
 
-Este proyecto es la evaluación **Introducción a TypeScript en ReactJS**, sesión Interactiva de Preguntas y Respuestas. 
+Este proyecto es la evaluación **"Introducción a TypeScript en ReactJS**, sesión Interactiva de Preguntas y Respuestas." 
 Consiste en:
 
 **1. Desarrollo:**
@@ -141,7 +141,7 @@ Consiste en:
 
 **3. Cómo Ejecutar el Proyecto**
 
- - Prerrequisitos
+   Prerrequisitos
 
 **4. Pasos para Configuración**
 
