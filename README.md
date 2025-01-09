@@ -142,7 +142,6 @@ Consiste en:
 **3. Cómo Ejecutar el Proyecto**
 
     - Prerrequisitos
-        - Prerrequisitos
 
 **4. Pasos para Configuración**
 
