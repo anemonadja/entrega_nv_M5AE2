@@ -140,7 +140,9 @@ Consiste en:
 **2. Estructura del Proyecto**
 
 **3. Cómo Ejecutar el Proyecto**
-       - Prerrequisitos
+
+    - Prerrequisitos
+        - Prerrequisitos
 
 **4. Pasos para Configuración**
 
