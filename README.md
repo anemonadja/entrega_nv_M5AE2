@@ -138,14 +138,22 @@ Consiste en:
    5. **Ventajas de TypeScript** en el Desarrollo con ReactJS.
 
 **2. Estructura del Proyecto**
+
 **3. Cómo Ejecutar el Proyecto**
        - Prerrequisitos
+
 **4. Pasos para Configuración**
+
 **5. Cómo Funciona**
+
 **6. Tecnologías Utilizadas**
+
 **7. Posibles Mejoras**
+
 **8. Soporte**
+
 **9. Autor**
+
 
 ## Desarrollo:
 
