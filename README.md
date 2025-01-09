@@ -130,17 +130,26 @@ Si tienes preguntas o encuentras algún problema, por favor abre un issue en est
 Este proyecto es la evaluación **Introducción a TypeScript en ReactJS**, sesión Interactiva de Preguntas y Respuestas. 
 Consiste en:
 
- Preguntas Teóricas sobre TypeScript (2 puntos)
+**1. Desarrollo:**
+   1. Preguntas teóricas sobre **TypeScript.**
+   2. Ejercicio Práctico: **Definiendo Tipos e Inferencia.**
+   3. Definición de **Interfaces y Clases** en TypeScript.
+   4. TypeScript y ReactJS: **Implementación Básica en un Componente.**
+   5. **Ventajas de TypeScript** en el Desarrollo con ReactJS.
 
-1. Preguntas teóricas sobre **TypeScript.**
-2. Ejercicio Práctico: **Definiendo Tipos e Inferencia.**
-3. Definición de **Interfaces y Clases** en TypeScript.
-4. TypeScript y ReactJS: **Implementación Básica en un Componente.**
-5. **Ventajas de TypeScript** en el Desarrollo con ReactJS.
+**2. Estructura del Proyecto**
+**3. Cómo Ejecutar el Proyecto**
+       - Prerrequisitos
+**4. Pasos para Configuración**
+**5. Cómo Funciona**
+**6. Tecnologías Utilizadas**
+**7. Posibles Mejoras**
+**8. Soporte**
+**9. Autor**
 
 ## Desarrollo:
 
-1. **Preguntas teóricas sobre TypeScript:**
+### 1. **Preguntas teóricas sobre TypeScript:**
 
  - **¿Qué es TypeScript y para qué se utiliza?**
     - TypeScript es un lenguaje de programación desarrollado por Microsoft que añade tipado estático opcional.
@@ -176,7 +185,17 @@ mejora la experiencia del desarrollador, y facilita el cambio asertivo de valore
    - Muestra mensajes de éxito o error al usuario dependiendo del resultado de la solicitud.
    - Incluye estilos personalizados para distinguir entre notificaciones de éxito y error.
 
-## Estructura del Proyecto
+### 2. **Ejercicio Práctico: Definiendo Tipos e Inferencia.**
+
+### 3. **Definición de Interfaces y Clases en TypeScript.**
+
+### 4. **TypeScript y ReactJS: Implementación Básica en un Componente.**
+
+### 5. **Ventajas de TypeScript en el Desarrollo con ReactJS.**
+
+
+
+## 2. Estructura del Proyecto
 
 ```plaintext
 ESPECIALIZACION_FRONTEND_M5_AE2/
@@ -199,7 +218,7 @@ ESPECIALIZACION_FRONTEND_M5_AE2/
 └── README.md                   # Documentación del proyecto
 ```
 
-## Cómo Ejecutar el Proyecto
+## 3. Cómo Ejecutar el Proyecto
 
 ### Prerrequisitos
 
@@ -207,3 +226,10 @@ Left aligned Header | Right aligned Header | Center aligned Header
 | :--- | ---: | :---:
 Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
+
+## 4. Pasos para Configuración
+## 5. Cómo Funciona
+## 6. Tecnologías Utilizadas
+## 7. Posibles Mejoras
+## 8. Soporte
+## 9. Autor
