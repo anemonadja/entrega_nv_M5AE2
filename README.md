@@ -234,4 +234,6 @@ Content Cell  | Content Cell | Content Cell
 ## 8. Soporte
 ## 9. Autor
 
-[Nadja Villarroel](https://github.com/anemonadja "Nadja Villarroel title")
+ - [Nadja Villarroel](https://github.com/anemonadja "Nadja Villarroel title")
+
+###***Voy lento pero seguro*** 🦾
