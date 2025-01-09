@@ -177,3 +177,8 @@ ESPECIALIZACION_FRONTEND_M5_AE2/
 ## Cómo Ejecutar el Proyecto
 
 ### Prerrequisitos
+
+Left aligned Header | Right aligned Header | Center aligned Header
+| :--- | ---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell
