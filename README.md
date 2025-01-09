@@ -123,7 +123,7 @@ Si tienes preguntas o encuentras algún problema, por favor abre un issue en est
 
 <!--AQUI-->
 
-# Sesión Interactivas de Preguntas y Respuestas
+# Sesión Interactiva de Preguntas y Respuestas
 
 ![Logo](src/assets/imgs/portada_readme_typescript2.jpg)
 
