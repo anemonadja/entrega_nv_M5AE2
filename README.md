@@ -1,6 +1,6 @@
 # Formulario con TypeScript y Consumo de API
 
-![Logo](src/assets/logo.jpeg)
+![Logo](src/assets/imgs/portada_readme_typescript.jpg)
 
 Este proyecto es una aplicación React desarrollada con **TypeScript**, diseñada para demostrar las siguientes funcionalidades clave:
 
@@ -125,22 +125,47 @@ Si tienes preguntas o encuentras algún problema, por favor abre un issue en est
 
 # Sesión Interactivas de Preguntas y Respuestas
 
-![Logo](src/assets/logo.jpeg)
+![Logo](src/assets/imgs/portada_readme_typescript.jpg)
 
-Este proyecto es una aplicación React desarrollada con **TypeScript**, diseñada para demostrar las siguientes funcionalidades clave:
+Este proyecto es la evaluación **Introducción a TypeScript en ReactJS**, sesión Interactiva de Preguntas y Respuestas. 
+Consiste en:
 
-- Creación y manejo de un **formulario** en React.
-- **Consumo de APIs** mediante funciones asíncronas simuladas.
-- Manejo de **notificaciones** para mostrar mensajes de éxito o error.
-- Visualización de datos obtenidos desde una **API externa**.
+ Preguntas Teóricas sobre TypeScript (2 puntos)
 
-## Características Principales
+1. Preguntas teóricas sobre **TypeScript.**
+2. Ejercicio Práctico: **Definiendo Tipos e Inferencia.**
+3. Definición de **Interfaces y Clases** en TypeScript.
+4. TypeScript y ReactJS: **Implementación Básica en un Componente.**
+5. **Ventajas de TypeScript** en el Desarrollo con ReactJS.
 
-1. **Formulario**:
+## Desarrollo:
 
-   - Permite a los usuarios ingresar su nombre, correo electrónico y un mensaje.
-   - Envia los datos a una API simulada.
-   - Muestra mensajes de notificación en la interfaz y en la consola.
+1. **Preguntas teóricas sobre TypeScript:**
+
+    - Qué es TypeScript y para qué se utiliza?
+      - TypeScript es un lenguaje de programación desarrollado por Microsoft que añade tipado estático opcional.
+Esto significa que, a diferencia de JavaScript, TypeScript permite declarar explícitamente los tipos de
+variables, funciones y objetos, ayudando a prevenir errores en tiempo de compilación y mejorando la calidad
+y capacidad de mantener el código.
+
+    - cuáles son las principales diferencias entre TypeScript y JavaScript?
+      - Las principales diferencias están en que TypeScript es de tipado estático (el tipo se verifica en tiempo de 
+compilación) y JavaScript es de tipado dinámico (el tipo se determina en tiempo de ejecución). Las ventajas 
+de utilizar TypeScript abarca la detección temprana de errores (antes de ejecutar el código), lo que permite
+una práctica preventiva. En cambio con Javascript, los errores son detectados cuando el código se ejecuta, 
+es decir, los errores no se sabrán hasta ese momento, y si no estamos constantemente comprobando cada cambio,
+será más dificil y lento encontrar el error. Esto conduce a una práctica reactiva y con muchos errores.
+   
+    - por qué es útil TypeScript en el desarrollo de aplicaciones ReactJS?
+       - Porque se puede usar para definir tipos para props (Se pueden definir las props que espera un componente), 
+estados (Se puede tipar el estado interno de un componente para asegurar que solo se manipulen datos válidos),
+eventos y funciones.
+
+      - TypeScript cuenta con autocompletado, resaltado de errores y refactorización automática; lo que además de reducir errores
+mejora la experiencia del desarrollador, y facilita el cambio asertivo de valores o variables.
+
+    - qué es el sistema de tipos en TypeScript y cómo ayuda a evitar errores en tiempo de desarrollo?
+       - Los tipos son una forma de restringir qué valores puede tomar una variable. Esto incluye tipos primitivos como string, number, boolean, así como tipos personalizados definidos por el desarrollador.
 
 2. **Consumo de API**:
 
